@@ -21,7 +21,7 @@ TabletView::TabletView(Tablet *tablet)
             + tablet->getOwnerName());
 
     label->setPos(14,-5);
-    label->setDefaultTextColor(Qt::green);
+    label->setDefaultTextColor(Qt::darkGreen);
 
     addToGroup(rect);
     addToGroup(label);
