@@ -29,4 +29,7 @@ TerritoryView::TerritoryView(const QString& imageFile)
     setDragMode(QGraphicsView::ScrollHandDrag);
 
 }
-
+QGraphicsScene* TerritoryView::getScene()
+{
+    return scene;
+}
