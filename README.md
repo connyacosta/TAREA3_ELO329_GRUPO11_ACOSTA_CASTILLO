@@ -1,2 +1,19 @@
 # TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO
 En este repositorio se encuentra el código realizado por nuestro equipo para la tarea 3 de la asignatura de ELO329 (Diseño y programación orientada a objetos). Esta tarea está realizada en el lenguaje de programación C++ y el IDE QtCreator
+
+
+## Integrantes:
+1. Constanza Acosta   202330019-5
+2. Josefa Castillo    202430002-4
+
+
+## Descripción:
+En este repositorio se encuentra el código realizado por nuestro equipo (grupo 11) para la tarea 3 de la asignatura de ELO329 (Diseño y programación orientada a objetos).
+
+## Contexto del problema a abordar:
+Esta tarea está inspirada en el producto AirTag. Un AirTag es un dispositivo localizador de objetos personales (llaves, mochilas, maletas, etc.). Un EloTelTag es un dispositivo AirTag con funcionalidades reducidas y se reporta vía cualquier celular, además el dispositivo se puede guardar en una mochila, maleta, cartera, llavero, etc. 
+Cada persona poseedora (dueño/a) de un EloTelTag además debe poseer al menos un celular y también podría tener un tablet.
+
+Cada EloTelTag, tablet y celular tiene un nombre (por ejemplo para indicar qué identifica -celular, Tablet, maleta, llaves, etc.) y un identificador de su dueño/a. Para efectos de esta tarea sólo los celulares pueden reportar su posición a una nube (tienen un GPS, Global Positioning System). 
+
+Los EloTelTag y tablets se comunican con cualquier celular cercano, esto es si su distancia es **inferior a 10 [m]**, para reportar su localización (en realidad la del celular), su nombre y el nombre de su dueño/a. Así, mientras los **celulares pueden reportar a la ETnube** su posición, los *EloTelTag* y los *tablets* **lo hacen a través de un celular cercano** perteneciente a la misma u otra persona, así como se puede observar en la imagen a continuación.
