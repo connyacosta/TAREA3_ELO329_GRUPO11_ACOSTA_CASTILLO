@@ -17,3 +17,22 @@ Cada persona poseedora (dueño/a) de un EloTelTag además debe poseer al menos u
 Cada EloTelTag, tablet y celular tiene un nombre (por ejemplo para indicar qué identifica -celular, Tablet, maleta, llaves, etc.) y un identificador de su dueño/a. Para efectos de esta tarea sólo los celulares pueden reportar su posición a una nube (tienen un GPS, Global Positioning System). 
 
 Los EloTelTag y tablets se comunican con cualquier celular cercano, esto es si su distancia es **inferior a 10 [m]**, para reportar su localización (en realidad la del celular), su nombre y el nombre de su dueño/a. Así, mientras los **celulares pueden reportar a la ETnube** su posición, los *EloTelTag* y los *tablets* **lo hacen a través de un celular cercano** perteneciente a la misma u otra persona, así como se puede observar en la imagen a continuación.
+
+
+## Objetivos:
+
+Modelar objetos reales como objetos de software.
+Ejercitar la creación y extensión de clases dadas para satisfacer nuevos requerimientos.
+Reconocer clases y relaciones entre ellas en código fuente C++.
+Ejercitar la compilación y ejecución de programas en lenguaje C++ desde una IDE (QtCreator).
+Ejercitar la configuración de un ambiente de trabajo para desarrollar aplicaciones en lenguaje C++. Se puede trabajar con un editor tipo “Sublime” o con un IDE (Integrated Development Environment). QtCreator es el IDE sugerido tanto para esta tarea.
+Ejercitar la entrada y salida de datos en C++.
+Ejercitar la preparación y entrega de resultados de software.
+Familiarización con desarrollos "iterativos" e "incrementales" (o crecientes).
+
+
+## Diagrama de clases:
+
+
+
+## Resultados finales:
