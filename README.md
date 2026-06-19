@@ -36,3 +36,13 @@ Los EloTelTag y tablets se comunican con cualquier celular cercano, esto es si s
 
 
 ## Resultados finales:
+
+
+
+## Compilación y ejecución del programa:
+
+- Descargar todos los archivos del proyecto en una misma carpeta.
+- Abrir la carpeta del proyecto en el IDE QtCreator (ya que el programa utiliza funciones de Qt como QtApplication), presionar el botón de build (martillo) y posteriormente el botón play (triángulo).
+
+
+Consideraciones: Si está trabajando desde un dispositivo MACOS para presionar la opción de findMy, deberá pulsar la tecla "control" y hacer clic en el celular del programa.
