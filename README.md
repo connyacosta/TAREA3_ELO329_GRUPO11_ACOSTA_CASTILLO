@@ -21,14 +21,14 @@ Los EloTelTag y tablets se comunican con cualquier celular cercano, esto es si s
 
 ## Objetivos:
 
-Modelar objetos reales como objetos de software.
-Ejercitar la creación y extensión de clases dadas para satisfacer nuevos requerimientos.
-Reconocer clases y relaciones entre ellas en código fuente C++.
-Ejercitar la compilación y ejecución de programas en lenguaje C++ desde una IDE (QtCreator).
-Ejercitar la configuración de un ambiente de trabajo para desarrollar aplicaciones en lenguaje C++. Se puede trabajar con un editor tipo “Sublime” o con un IDE (Integrated Development Environment). QtCreator es el IDE sugerido tanto para esta tarea.
-Ejercitar la entrada y salida de datos en C++.
-Ejercitar la preparación y entrega de resultados de software.
-Familiarización con desarrollos "iterativos" e "incrementales" (o crecientes).
+- Modelar objetos reales como objetos de software.
+- Ejercitar la creación y extensión de clases dadas para satisfacer nuevos requerimientos.
+- Reconocer clases y relaciones entre ellas en código fuente C++.
+- Ejercitar la compilación y ejecución de programas en lenguaje C++ desde una IDE (QtCreator).
+- Ejercitar la configuración de un ambiente de trabajo para desarrollar aplicaciones en lenguaje C++. Se puede trabajar con un editor tipo “Sublime” o con un IDE (Integrated Development Environment). QtCreator es el IDE sugerido tanto para esta tarea.
+- Ejercitar la entrada y salida de datos en C++.
+- Ejercitar la preparación y entrega de resultados de software.
+- Familiarización con desarrollos "iterativos" e "incrementales" (o crecientes).
 
 
 ## Diagrama de clases:
