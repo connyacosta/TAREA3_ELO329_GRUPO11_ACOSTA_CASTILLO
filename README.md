@@ -33,7 +33,7 @@ Los EloTelTag y tablets se comunican con cualquier celular cercano, esto es si s
 
 ## Diagrama de clases:
 
-<img width="2880" height="2948" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/9343ca2d-6a91-4a8e-a40f-ac98159d3f7d" />
+<img width="2880" height="2948" alt="class-diagram" src="https://github.com/user-attachments/assets/9343ca2d-6a91-4a8e-a40f-ac98159d3f7d" />
 
 
 ## Resultados finales:
