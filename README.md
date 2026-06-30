@@ -35,20 +35,21 @@ Los EloTelTag y tablets se comunican con cualquier celular cercano, esto es si s
 
 <img width="2880" height="2948" alt="class-diagram" src="https://github.com/user-attachments/assets/9343ca2d-6a91-4a8e-a40f-ac98159d3f7d" />
 
+Figura 1: Diagrama de clases del programa.
 
 ## Resultados finales:
 
 <img width="1710" height="1107" alt="Captura de pantalla 2026-06-30 a la(s) 7 32 00 p m" src="https://github.com/user-attachments/assets/5bb7e755-5bc8-4bb5-9578-17e2b629658c" />
 
-Figura 1: Se muestra el mapa de placeres con los dispositivos con sus respectivos colores y radares.
+Figura 2: Se muestra el mapa de placeres con los dispositivos con sus respectivos colores y radares.
 
 <img width="1710" height="1107" alt="Captura de pantalla 2026-06-30 a la(s) 7 32 33 p m" src="https://github.com/user-attachments/assets/4593d59a-fd5e-49ae-ae4e-d5a0d4b1a2e0" />
 
-Figura 2: En los celulares se presenta la opción findMy a la cual se puede acceder haciendo clic.
+Figura 3: En los celulares se presenta la opción findMy a la cual se puede acceder haciendo clic.
 
 <img width="1710" height="1107" alt="Captura de pantalla 2026-06-30 a la(s) 7 32 38 p m" src="https://github.com/user-attachments/assets/ade42988-4d28-4c78-9b73-728bd46d4fa7" />
 
-Figura 3: Al hacer clic en la opción findMy se muestran los dispositivos cercanos reportados (en el radar).
+Figura 4: Al hacer clic en la opción findMy se muestran los dispositivos cercanos reportados (en el radar).
 
 
 
