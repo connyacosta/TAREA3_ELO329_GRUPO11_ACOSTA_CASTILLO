@@ -41,9 +41,6 @@ Los EloTelTag y tablets se comunican con cualquier celular cercano, esto es si s
 
 ## Compilación y ejecución del programa:
 
-- Descargar todos los archivos del proyecto en una misma carpeta.
-- Abrir la carpeta del proyecto en el IDE QtCreator (ya que el programa utiliza funciones de Qt como QtApplication), presionar el botón de build (martillo) y posteriormente el botón play (triángulo).
-
 - Descargue todos los archivos del proyecto en una misma carpeta.
 - Abra el IDE Qt Creator.
 - Vaya a File -> Open File or Project... y seleccione el archivo CMakeLists.txt que está dentro de la carpeta del proyecto.
