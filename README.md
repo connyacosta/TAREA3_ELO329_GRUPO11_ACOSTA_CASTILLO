@@ -44,5 +44,10 @@ Los EloTelTag y tablets se comunican con cualquier celular cercano, esto es si s
 - Descargar todos los archivos del proyecto en una misma carpeta.
 - Abrir la carpeta del proyecto en el IDE QtCreator (ya que el programa utiliza funciones de Qt como QtApplication), presionar el botón de build (martillo) y posteriormente el botón play (triángulo).
 
+- Descargue todos los archivos del proyecto en una misma carpeta.
+- Abra el IDE Qt Creator.
+- Vaya a File -> Open File or Project... y seleccione el archivo CMakeLists.txt que está dentro de la carpeta del proyecto.
+- Si el IDE se lo solicita, seleccione el Kit de compilación (Configure Project).
+- Finalmente, presione el botón Build (icono de martillo en la esquina inferior izquierda) para compilar y luego el botón Run (icono de triángulo verde "Play") para ejecutar el programa.
 
-Consideraciones: Si está trabajando desde un dispositivo MACOS para presionar la opción de findMy, deberá pulsar la tecla "control" y hacer clic en el celular del programa.
+Consideraciones: Si está trabajando desde un dispositivo MacOS para presionar la opción de findMy, deberá pulsar la tecla "control" y hacer clic en el celular del programa.
