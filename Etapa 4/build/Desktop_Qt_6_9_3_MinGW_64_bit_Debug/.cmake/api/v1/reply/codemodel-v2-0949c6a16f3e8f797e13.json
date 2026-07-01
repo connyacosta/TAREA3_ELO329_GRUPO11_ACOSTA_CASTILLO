@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b6a9d0345b9894a55b96.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "T3Stage3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "T3Stage3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T3Stage3-Debug-916609978e9ad6abe9a8.json",
+					"name" : "T3Stage3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "T3Stage3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T3Stage3_autogen-Debug-e1154d70ce0bad7c1baa.json",
+					"name" : "T3Stage3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "T3Stage3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T3Stage3_autogen_timestamp_deps-Debug-cb9c9650900b8ebf5557.json",
+					"name" : "T3Stage3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug",
+		"source" : "C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,9 @@
+C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/CMakeFiles/T3Stage3.dir
+C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/CMakeFiles/list_install_components.dir
+C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/CMakeFiles/install.dir
+C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/CMakeFiles/install/local.dir
+C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/CMakeFiles/install/strip.dir
+C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/CMakeFiles/T3Stage3_autogen_timestamp_deps.dir
+C:/Users/Constanza Acosta/Documents/proyectos/TAREA3_ELO329_GRUPO11_ACOSTA_CASTILLO/Etapa 4/build/Desktop_Qt_6_9_3_MinGW_64_bit_Debug/CMakeFiles/T3Stage3_autogen.dir

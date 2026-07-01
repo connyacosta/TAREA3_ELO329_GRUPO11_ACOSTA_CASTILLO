@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/T3Stage3_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/T3Stage3_autogen.dir/ParseCache.txt"
+  "T3Stage3_autogen"
+  "CMakeFiles/T3Stage3.dir/T3Stage3_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/T3Stage3_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/cellular.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/cellular.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/cellularview.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/cellularview.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/eloteltag.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/eloteltag.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/eloteltagview.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/eloteltagview.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/equipo.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/equipo.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/etnube.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/etnube.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/main.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/main.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/tablet.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/tablet.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/tabletview.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/tabletview.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/territory.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/territory.cpp.obj.d"
+  "CMakeFiles/T3Stage3.dir/territoryview.cpp.obj"
+  "CMakeFiles/T3Stage3.dir/territoryview.cpp.obj.d"
+  "T3Stage3.exe"
+  "T3Stage3.exe.manifest"
+  "T3Stage3.pdb"
+  "T3Stage3_autogen/mocs_compilation.cpp"
+  "T3Stage3_autogen/timestamp"
+  "libT3Stage3.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/T3Stage3.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
