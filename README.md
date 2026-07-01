@@ -33,21 +33,25 @@ Los EloTelTag y tablets se comunican con cualquier celular cercano, esto es si s
 
 ## Diagrama de clases:
 
-<img width="2880" height="2948" alt="class-diagram" src="https://github.com/user-attachments/assets/9343ca2d-6a91-4a8e-a40f-ac98159d3f7d" />
+<img width="2642" height="3354" alt="diagrama de clases" src="https://github.com/user-attachments/assets/e913b248-c7cc-4f93-a048-b203475921c2" />
 
 Figura 1: Diagrama de clases del programa.
 
+
 ## Resultados finales:
 
-<img width="1710" height="1107" alt="Captura de pantalla 2026-06-30 a la(s) 7 32 00 p m" src="https://github.com/user-attachments/assets/5bb7e755-5bc8-4bb5-9578-17e2b629658c" />
+<img width="1710" height="1107" alt="Estado inicial programa" src="https://github.com/user-attachments/assets/6c8693b1-44df-4a15-99af-075767df7933" />
 
-Figura 2: Se muestra el mapa de placeres con los dispositivos con sus respectivos colores y radares.
+Figura 2: Se muestra el mapa de placeres con los dispositivos con sus respectivos colores y radares, junto con el menú Simulation.
 
-<img width="1710" height="1107" alt="Captura de pantalla 2026-06-30 a la(s) 7 32 33 p m" src="https://github.com/user-attachments/assets/4593d59a-fd5e-49ae-ae4e-d5a0d4b1a2e0" />
 
-Figura 3: En los celulares se presenta la opción findMy a la cual se puede acceder haciendo clic.
+<img width="1710" height="1107" alt="Muestra de menú findMy" src="https://github.com/user-attachments/assets/5610fecb-43ba-4467-8937-f9f0a0a44cac" />
 
-<img width="1710" height="1107" alt="Captura de pantalla 2026-06-30 a la(s) 7 32 38 p m" src="https://github.com/user-attachments/assets/ade42988-4d28-4c78-9b73-728bd46d4fa7" />
+Figura 3: Se ha seleccionado Play en el menú. En los celulares se presenta la opción findMy a la cual se puede acceder haciendo clic.
+
+
+<img width="1710" height="1107" alt="Reporte findMy" src="https://github.com/user-attachments/assets/5167ec1a-9b00-4e40-b3e0-10f2073bcd95" />
+
 
 Figura 4: Al hacer clic en la opción findMy se muestran los dispositivos cercanos reportados (en el radar).
 
